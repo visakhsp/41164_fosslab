@@ -1,0 +1,24 @@
+total 88
+-rw-rw-r-- 1 students students   18 Feb 21 01:07 colour
+-rw-rw-r-- 1 students students   19 Feb 21 01:19 colour1
+-rw-rw-r-- 1 students students   68 Feb 21 01:26 colour1.txt
+-rw-rw-r-- 1 students students   48 Feb 21 01:24 colour.txt
+drwxr-xr-x 2 students students 4096 Feb 21 00:16 Desktop
+drwxr-xr-x 2 students students 4096 Feb 18 03:45 Documents
+drwxr-xr-x 3 students students 4096 Feb 19 22:34 Downloads
+-rw-r--r-- 1 students students 8980 Feb 15 21:39 examples.desktop
+-rw-rw-r-- 1 students students   68 Feb 21 01:27 mergecolour.txt
+drwxr-xr-x 2 students students 4096 Feb 18 03:45 Music
+-rw-rw-r-- 1 students students   68 Feb 21 01:32 newcolour.txt
+-rw-rw-r-- 1 students students  298 Feb 21 02:29 newfruit.txt
+-rw-rw-r-- 1 students students   47 Feb 21 00:56 new.txt
+-rw-rw-r-- 1 students students   45 Feb 21 01:20 people
+-rw-rw-r-- 1 students students    0 Feb 21 01:19 people.txt
+drwxr-xr-x 2 students students 4096 Feb 18 03:45 Pictures
+drwxr-xr-x 2 students students 4096 Feb 18 03:45 Public
+drwxr-xr-x 2 students students 4096 Feb 18 03:45 Templates
+-rw-rw-r-- 1 students students    0 Feb 21 02:31 text
+drwxr-xr-x 2 students students 4096 Feb 18 03:45 Videos
+-rw-rw-r-- 1 students students    0 Feb 21 00:34 vis
+-rw-rw-r-- 1 students students   13 Feb 21 00:51 vis.txt
+-rw-rw-r-- 1 students students 1242 Feb 21 01:44 wordcount.txt

@@ -1,0 +1,7 @@
+with open("dict.txt")as stream:
+         data=stream.readlines()
+
+print data
+
+for value in data:
+        print value.strip("/n")
